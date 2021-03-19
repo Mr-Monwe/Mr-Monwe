@@ -7,20 +7,13 @@
 </br>
 </p>
 
+<h2 align="center" style="font-family:'Roboto mono'"> Some of my past work</h2>
+
   <p align="center">
     </br>
-    </br>
-    </br>
-    
-    <a href="https://github.com/waynerobotics/veronica/">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ringo47&repo=vision_master&theme=vue"/>
-    </a>
+<img src="igvc.gif" alt="drawing" width="350" height="250"/> <img src="ex.gif" alt="drawing" width="200" height="250"/>  <img src="draw.gif" alt="drawing" width="350" height="250"/>   
   </p>
-
-<!-- <div style="text-align:center"><img src="https://im7.ezgif.com/tmp/ezgif-7-66652e0ea5ce.gif" /></div> -->
-
-<!-- [![bleedRGB](https://im7.ezgif.com/tmp/ezgif-7-66652e0ea5ce.gif)]() -->
-
+  
 <!-- **Mr-Monwe/Mr-Monwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

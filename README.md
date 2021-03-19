@@ -11,7 +11,7 @@
 
   <p align="center">
     </br>
-<img src="igvc.gif" alt="drawing" width="350" height="250"/> <img src="ex.gif" alt="drawing" width="200" height="250"/>  <img src="draw.gif" alt="drawing" width="350" height="250"/>   
+<img src="igvc.gif" alt="drawing" width="250" height="150"/> <img src="ex.gif" alt="drawing" width="100" height="150"/>  <img src="draw.gif" alt="drawing" width="250" height="150"/>   
   </p>
   
 <!-- **Mr-Monwe/Mr-Monwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

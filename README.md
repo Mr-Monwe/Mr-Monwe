@@ -1,6 +1,6 @@
 <h1 align='center'> Hello there! I'm Nnamdi 👋</h1>
 
-<p align="center" style="font-family:'Roboto mono'"> I'm a computer science student who also runs my <a href="https://github.com/waynerobotics">University's Robotics Club</a>. I am deeply interesting in robotics, embedded systems, computer vision, control systems, and electronics. I have built multiple autonomous ground robots, a pneumatically actuated exoskeloton, and a bunch of other interesting things. Feel free to checkout some of the work I have done on my <a href="https://mr-monwe.github.io/">website</a>.
+<p align="center" style="font-family:'Roboto mono'"> I'm a Computer Science student who also runs my <a href="https://github.com/waynerobotics">University's Robotics Club</a>. I am deeply interesting in robotics, embedded systems, computer vision, control systems, and electronics. I have built multiple autonomous ground robots, a pneumatically actuated exoskeloton, and a bunch of other interesting things. Feel free to checkout some of the work I have done on my <a href="https://mr-monwe.github.io/">website</a>.
 </br></br>
 🔭 Currently working : An autonomous robot, <a href="https://github.com/waynerobotics/veronica">Veronica</a>
 </br>
